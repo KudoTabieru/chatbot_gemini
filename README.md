@@ -1,3 +1,4 @@
+Node version 20.18.1
 gemini-2.0-flash
 
 
